@@ -1,5 +1,4 @@
 // Looping: Write a Java program that prints the first 10 numbers in the Fibonacci sequence.
-package Java;
 
 class Fibonacci {
     public static void main(String[] args) {
