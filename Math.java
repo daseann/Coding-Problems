@@ -19,10 +19,15 @@ public class Math {
             int div = num1 / num2;
             System.out.println("Dividing " + num1 + " by " + num2 + " gives " + div + ".\n");
         }
+        in.close();
 
     }
 
     public static int random() {
         return 0;
+    }
+
+    public static String min(int[] array) {
+        return null;
     }
 }
