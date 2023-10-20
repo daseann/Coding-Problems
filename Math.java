@@ -30,4 +30,8 @@ public class Math {
     public static String min(int[] array) {
         return null;
     }
+
+    public static int sqrt(int n) {
+        return 0;
+    }
 }
