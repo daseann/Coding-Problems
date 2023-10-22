@@ -29,5 +29,6 @@ public class Input {
         }
         
         System.out.println("Most frequent character: " + mostFrequentChar + " with frequency: " + maxFrequency);
+        in.close();
     }
 }
